@@ -81,7 +81,7 @@ links:
     # TWITCH
   - Name: Credly
     URL: 'https://www.credly.com/users/jeff-levensailor'
-    Icon-Class: fab fa-award
+    Icon-Class: fab fa-signature
     Color: '#9147fe'
     Text_Color: '#ffffff'
 
