@@ -226,7 +226,7 @@ links:
     URL: 'https://medium.com'
     Username: '@levensailor'
     Icon-Class: fab fa-medium-m
-    Color: '#00ab6c'
+    Color: '#000000'
     Text_Color: '#ffffff'
 
     # DEV.TO
