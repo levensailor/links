@@ -81,7 +81,7 @@ links:
     # TWITCH
   - Name: Credly
     URL: 'https://www.credly.com/users/jeff-levensailor'
-    Icon-Class: fab fa-signature
+    Icon-Class: fa fa-signature
     Color: '#9147fe'
     Text_Color: '#ffffff'
 
@@ -200,7 +200,7 @@ links:
   - Name: Discogs
     URL: https://www.discogs.com/user/gethustle/collection
     Color: '#DD2A7B'
-    Icon-Class: fab fa-music
+    Icon-Class: fa fa-music
 
 #   - Name: Skype
 #     URL: https://join.skype.com/invite/e6vMrfsYKn9e
@@ -248,7 +248,7 @@ links:
     # CDP Neighbors
   - Name: Blog
     URL: https://cdpneighbors.com
-    Icon-Class: fas fa-wordpress-simple
+    Icon-Class: fab fa-wordpress
     Color: '#ffb142'
     Text_Color: '#ffffff'
 
