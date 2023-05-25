@@ -200,7 +200,13 @@ links:
   - Name: Discogs
     URL: https://www.discogs.com/user/gethustle/collection
     Color: '#DD2A7B'
-    Icon-Class: fa fa-music
+    Icon-Class: fa fa-compact-disc
+    
+    # Devnet
+  - Name: Devnet
+    URL: https://developer.cisco.com/codeexchange/search?q=levensailor
+    Color: '#3b5998'
+    Icon-Class: fa fa-code
 
 #   - Name: Skype
 #     URL: https://join.skype.com/invite/e6vMrfsYKn9e
@@ -246,7 +252,7 @@ links:
 #     Text_Color: '#000000'
 
     # CDP Neighbors
-  - Name: Blog
+  - Name: CDP Neighbors
     URL: https://cdpneighbors.com
     Icon-Class: fab fa-wordpress
     Color: '#ffb142'
