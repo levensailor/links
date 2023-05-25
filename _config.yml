@@ -81,7 +81,7 @@ links:
     # TWITCH
   - Name: Credly
     URL: 'https://www.credly.com/users/jeff-levensailor'
-    Icon-Class: fab fa-user-graduate
+    Icon-Class: fab fa-award
     Color: '#9147fe'
     Text_Color: '#ffffff'
 
@@ -229,7 +229,7 @@ links:
   - Name: CV
     URL: https://levensailor.github.io/cv
     Color: '#35465c'
-    Icon-Class: fab fa-user-tie
+    Icon-Class: fab fa-wpforms
 
 #   # BUY ME A COFFEE
 #   - Name: BuyMeACoffee
