@@ -242,7 +242,7 @@ links:
     # CDP Neighbors
   - Name: Blog
     URL: https://cdpneighbors.com
-    Icon-Class: fas fa-link
+    Icon-Class: fas fa-wordpress-simple
     Color: '#ffb142'
     Text_Color: '#ffffff'
 
