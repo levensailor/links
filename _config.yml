@@ -226,12 +226,11 @@ links:
     Color: '#ffffff'
     Text_Color: '#000000'
 
-  #   # TUMBLR
-  # - Name: Tumblr
-  #   URL: https://www.tumblr.com
-  #   Username: 
-  #   Color: '#35465c'
-  #   Icon-Class: fab fa-tumblr
+    # CV
+  - Name: CV
+    URL: https://levensailor.github.io/cv
+    Color: '#35465c'
+    Icon-Class: fab fa-user-tie
 
 #   # BUY ME A COFFEE
 #   - Name: BuyMeACoffee
@@ -241,7 +240,7 @@ links:
 #     Color: '#FFDD00'
 #     Text_Color: '#000000'
 
-    # CUSTOM LINK
+    # CDP Neighbors
   - Name: Blog
     URL: https://cdpneighbors.com
     Icon-Class: fas fa-link
@@ -255,7 +254,7 @@ links:
 #     Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
-footer: 'Yes'
+# footer: 'Yes'
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
 
