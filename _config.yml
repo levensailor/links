@@ -78,13 +78,12 @@ links:
     Color: '#e17055'
     Text_Color: '#ffffff'
 
-#     # TWITCH
-#   - Name: Twitch
-#     URL: 'https://twitch.tv'
-#     Username: harsh98trivedi
-#     Icon-Class: fab fa-twitch
-#     Color: '#9147fe'
-#     Text_Color: '#ffffff'
+    # TWITCH
+  - Name: Credly
+    URL: 'https://www.credly.com/users/jeff-levensailor'
+    Icon-Class: fab fa-user-graduate
+    Color: '#9147fe'
+    Text_Color: '#ffffff'
 
 #     # VIMEO
 #   - Name: Vimeo
