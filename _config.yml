@@ -205,7 +205,7 @@ links:
     # Devnet
   - Name: Devnet
     URL: https://developer.cisco.com/codeexchange/search?q=levensailor
-    Color: '#3b5998'
+    Color: '#049fd9'
     Icon-Class: fa fa-code
 
 #   - Name: Skype
