@@ -76,7 +76,7 @@ links:
     Color: '#e17055'
     Text_Color: '#ffffff'
 
-    # TWITCH
+    # Credly
   - Name: Credly
     URL: 'https://www.credly.com/users/jeff-levensailor'
     Icon-Class: fa fa-signature
